@@ -23,4 +23,6 @@ Using Express.js, Firebase, HighCharts, and Heroku to analyze cryptocurrency sto
     5. npm install
     6. npm start
 7. 
-	
+
+#Build app to switch switch service providers easily. 
+	https://startupsventurecapital.com/firebase-costs-increased-by-7-000-81dc0a27271d
